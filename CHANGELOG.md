@@ -1,0 +1,2 @@
+# March 6, 2023 (SOLENG-39089) - v3.4.3
+- Submitted changes to fix a bug with the image references. The change now adds the images with the original name of the file instead of hashing the name which created the conflict.
